@@ -16,7 +16,7 @@ jobs:
 
 
      - name: "Login to Docker hub"
-       run: docker login --username Ma7modSa3faN password dckr_pat_sOdoYhjklRCSjjcHx4KN69G95v4
+       run: docker login --username ma7modsa3faN password dckr_pat_sOdoYhjklRCSjjcHx4KN69G95v4
 
 
      
